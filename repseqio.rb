@@ -1,8 +1,8 @@
 class Repseqio < Formula
   homepage "https://github.com/repseqio/repseqio"
-  url "https://github.com/repseqio/repseqio/releases/download/v1.2.8/repseqio-1.2.8.zip"
-  version "1.2.8-1"
-  sha256 "5b8a2d8299b5f48de273ab8597d189fa2f8e55be0373f507bc2d7640b73ad495"
+  url "https://github.com/repseqio/repseqio/releases/download/v1.2.9/repseqio-1.2.9.zip"
+  version "1.2.9-1"
+  sha256 "7195177d8012d8ea9abc6537690bf07b3dcdcec8ee16e846a886629a95ab69f6"
 
   depends_on :java
 
